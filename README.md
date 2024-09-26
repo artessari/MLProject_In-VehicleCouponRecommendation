@@ -29,3 +29,18 @@ The objective is to classify whether a customer will accept a coupon based on fe
 - in-vehicle-coupon-recommendation.csv: The dataset used for training and testing the models.
 - MLReport_TessariArianna_19322.pdf: A detailed report that discusses the objectives, methodology, and conclusions.
 - requisites.txt: The list of Python dependencies required to run the project.
+
+
+## Models Implemented
+
+The project explores the following machine learning models:
+
+- Logistic Regression
+- Support Vector Machines (SVM)
+- Decision Tree
+- K-Nearest Neighbors (KNN)
+- Naive Bayes
+- Random Forest
+- Neural Network
+
+Each model was evaluated based on accuracy, precision, recall, F1 score, and ROC-AUC.
