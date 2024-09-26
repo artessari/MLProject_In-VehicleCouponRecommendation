@@ -39,12 +39,14 @@ cd MLProject_In-VehicleCouponRecommendation
 ```
 
 **2. Install Dependencies**
+
 To install the required Python libraries, run:
 ```
 pip install -r requisites.txt
 ```
 
 **3. Run Jupyter Notebook**
+
 To explore the project interactively, launch the notebook.
 
 ## Models Implemented
@@ -73,7 +75,7 @@ Neural networks and Random Forest demonstrate higher classification accuracy but
 | SVM                 | 65.35%   | 68.42%    | 72.87%  | 70.56%   |
 | Decision Tree       | 65.83%   | 69.29%    | 72.02%  | 70.53%   |
 | KNN                 | 66.07%   | 66.41%    | 82.06%  | 73.39%   |
-| Non-LinearSVM       | 69.34%   | 71.67%    | 76.58%  | 74.00%   |
+| Non-Linear SVM       | 69.34%   | 71.67%    | 76.58%  | 74.00%   |
 | Naive Bayes         | 58.19%   | 67.35%    | 51.57%  | 57.13%   |
 | Random Forest       | 72.08%   | 73.11%    | 80.87%  | 76.74%   |
 | Neural Network      | 72.22%   | 74.00%    | 79.11%  | 76.47%   |
