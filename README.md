@@ -39,12 +39,14 @@ cd MLProject_In-VehicleCouponRecommendation
 ```
 
 **2. Install Dependencies**
+
 To install the required Python libraries, run:
 ```
 pip install -r requisites.txt
 ```
 
 **3. Run Jupyter Notebook**
+
 To explore the project interactively, launch the notebook.
 
 ## Models Implemented
