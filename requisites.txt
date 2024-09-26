@@ -1,0 +1,13 @@
+notebook
+numpy
+scipy
+scikit-learn
+pandas
+matplotlib
+ipykernel
+common
+seaborn
+pydotplus 
+keras
+TensorFlow
+scikeras
