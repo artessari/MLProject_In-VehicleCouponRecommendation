@@ -12,7 +12,7 @@ The objective is to classify whether a customer will accept a coupon based on fe
 - Model Training & Evaluation
 - Comparison of Model Performance
 
-## Directory Structure
+## Repository Structure
 
 ```
 ├── in-vehicle-coupon-recommendation.csv     # Dataset in CSV format
