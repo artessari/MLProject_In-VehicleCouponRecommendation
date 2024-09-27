@@ -24,6 +24,13 @@ The objective is to classify whether a customer will accept a coupon based on fe
 └── README.md                                # Project README file
 ```
 
+## Key Files
+
+- MLProject_TessariArianna_19322.ipynb: The main notebook that contains data preprocessing, exploratory data analysis (EDA), model training, and evaluation.
+- in-vehicle-coupon-recommendation.csv: The dataset used for training and testing the models.
+- MLReport_TessariArianna_19322.pdf: A detailed report that discusses the objectives, methodology, and conclusions.
+- requisites.txt: The list of Python dependencies required to run the project.
+
 ## How to Run
 
 **1. Clone the repository**
