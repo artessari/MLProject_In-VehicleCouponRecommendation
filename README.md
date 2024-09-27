@@ -1,4 +1,5 @@
-# In-Vehicle Coupon Recommendation - Machine Learning Project
+# In-Vehicle Coupon Recommendation 
+### Machine Learning Project
 
 This project explores the application of various machine learning models to predict whether a user will accept an in-vehicle coupon based on demographic, contextual, and coupon-specific factors. The project is based on a dataset from the UCI Machine Learning Repository (retrievable from https://archive.ics.uci.edu/dataset/603/in+vehicle+coupon+recommendation) and focuses on classification techniques.
 
@@ -80,7 +81,7 @@ Neural networks and Random Forest demonstrate higher classification accuracy but
 | Random Forest       | 72.08%   | 73.11%    | 80.87%  | 76.74%   |
 | Neural Network      | 72.22%   | 74.00%    | 79.11%  | 76.47%   |
 
-## Conclusion
+## Conclusions
 
 Both Neural Networks and Random Forests are highly effective for this classification problem, but simpler models like Logistic Regression also provide solid results with lower computational costs. The project demonstrates the use of machine learning techniques for real-world predictive tasks and provides insights into model selection based on performance and efficiency.
 
