@@ -1,4 +1,4 @@
-<h1>In-Vehicle Coupon Recommendation<br>Machine Learning Project</h1>
+# In-Vehicle Coupon Recommendation
 
 This project explores the application of various machine learning models to predict whether a user will accept an in-vehicle coupon based on demographic, contextual, and coupon-specific factors. The project is based on a dataset from the UCI Machine Learning Repository (retrievable from https://archive.ics.uci.edu/dataset/603/in+vehicle+coupon+recommendation) and focuses on classification techniques.
 
@@ -23,12 +23,6 @@ The objective is to classify whether a customer will accept a coupon based on fe
 ├── requisites.txt                           # Dependencies for the project (use to recreate environment)
 └── README.md                                # Project README file
 ```
-
-## Key Files
-- MLProject_TessariArianna_19322.ipynb: The main notebook that contains data preprocessing, exploratory data analysis (EDA), model training, and evaluation.
-- in-vehicle-coupon-recommendation.csv: The dataset used for training and testing the models.
-- MLReport_TessariArianna_19322.pdf: A detailed report that discusses the objectives, methodology, and conclusions.
-- requisites.txt: The list of Python dependencies required to run the project.
 
 ## How to Run
 
