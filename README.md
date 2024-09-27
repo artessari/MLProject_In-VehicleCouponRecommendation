@@ -1,5 +1,4 @@
-# In-Vehicle Coupon Recommendation 
-### Machine Learning Project
+<h1>In-Vehicle Coupon Recommendation<br>Machine Learning Project</h1>
 
 This project explores the application of various machine learning models to predict whether a user will accept an in-vehicle coupon based on demographic, contextual, and coupon-specific factors. The project is based on a dataset from the UCI Machine Learning Repository (retrievable from https://archive.ics.uci.edu/dataset/603/in+vehicle+coupon+recommendation) and focuses on classification techniques.
 
